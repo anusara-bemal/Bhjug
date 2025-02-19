@@ -1,0 +1,174 @@
+2025-02-19T09:13:37.973Z - info: Created directory: downloads
+2025-02-19T09:13:37.978Z - info: Created directory: data/analytics
+2025-02-19T09:13:37.991Z - info: Bot started successfully
+2025-02-19T09:15:15.708Z - info: Created directory: downloads
+2025-02-19T09:15:15.713Z - info: Created directory: data/analytics
+2025-02-19T09:15:15.722Z - info: Bot started successfully
+2025-02-19T09:15:53.645Z - info: Created directory: downloads
+2025-02-19T09:15:53.651Z - info: Created directory: data/analytics
+2025-02-19T09:15:53.659Z - info: Bot started successfully
+2025-02-19T09:24:27.072Z - info: Created directory: downloads
+2025-02-19T09:24:27.076Z - info: Created directory: data/analytics
+2025-02-19T09:24:27.087Z - info: Bot started successfully
+2025-02-19T09:27:07.967Z - info: Created directory: downloads
+2025-02-19T09:27:07.971Z - info: Created directory: data/analytics
+2025-02-19T09:27:07.980Z - info: Bot started successfully
+2025-02-19T09:30:41.280Z - info: Created directory: downloads
+2025-02-19T09:30:41.285Z - info: Created directory: data/analytics
+2025-02-19T09:30:41.293Z - info: Bot started successfully
+2025-02-19T09:37:48.663Z - info: Created directory: downloads
+2025-02-19T09:37:48.669Z - info: Created directory: data/analytics
+2025-02-19T09:37:48.677Z - info: Bot started successfully
+2025-02-19T09:41:10.559Z - info: Created directory: downloads
+2025-02-19T09:41:10.563Z - info: Created directory: data/analytics
+2025-02-19T09:41:10.573Z - info: Bot started successfully
+2025-02-19T09:41:15.245Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:41:18.777Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:41:23.873Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:41:27.393Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:41:32.015Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:02.258Z - info: Created directory: downloads
+2025-02-19T09:42:02.262Z - info: Created directory: data/analytics
+2025-02-19T09:42:02.271Z - info: Bot started successfully
+2025-02-19T09:42:07.053Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:10.632Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:15.495Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:19.084Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:27.973Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:31.496Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:35.910Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:39.486Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:43.983Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:47.508Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:51.905Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:55.435Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:42:59.951Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:03.472Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:07.894Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:11.423Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:15.891Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:19.427Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:23.856Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:27.380Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:31.834Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:35.352Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:39.816Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:43.350Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:47.869Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:51.390Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:55.768Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:43:59.278Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:03.787Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:07.313Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:11.737Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:15.259Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:19.682Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:23.223Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:27.617Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:31.131Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:35.623Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:39.149Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:43.568Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:44:47.118Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T09:45:05.960Z - info: Created directory: downloads
+2025-02-19T09:45:05.965Z - info: Created directory: data/analytics
+2025-02-19T09:45:05.974Z - info: Bot started successfully
+2025-02-19T09:47:04.550Z - info: Created directory: downloads
+2025-02-19T09:47:04.554Z - info: Created directory: data/analytics
+2025-02-19T09:47:04.563Z - info: Bot started successfully
+2025-02-19T09:50:28.606Z - info: Created directory: downloads
+2025-02-19T09:50:28.611Z - info: Created directory: data/analytics
+2025-02-19T09:50:28.620Z - info: Bot started successfully
+2025-02-19T09:52:30.508Z - info: Created directory: downloads
+2025-02-19T09:52:30.512Z - info: Created directory: data/analytics
+2025-02-19T09:52:30.522Z - info: Bot started successfully
+2025-02-19T09:55:05.947Z - info: Created directory: downloads
+2025-02-19T09:55:05.951Z - info: Created directory: data/analytics
+2025-02-19T09:55:05.960Z - info: Bot started successfully
+2025-02-19T10:05:23.162Z - info: Created directory: downloads
+2025-02-19T10:05:23.166Z - info: Created directory: data/analytics
+2025-02-19T10:05:23.175Z - info: Bot started successfully
+2025-02-19T10:18:47.963Z - info: Created directory: downloads
+2025-02-19T10:18:47.967Z - info: Created directory: data/analytics
+2025-02-19T10:18:47.976Z - info: Bot started successfully
+2025-02-19T10:35:46.245Z - info: Created directory: downloads
+2025-02-19T10:35:46.250Z - info: Created directory: data/analytics
+2025-02-19T10:35:46.258Z - info: Bot started successfully
+2025-02-19T10:40:16.962Z - info: Created directory: downloads
+2025-02-19T10:40:16.972Z - info: Created directory: data/analytics
+2025-02-19T10:40:16.987Z - info: Bot started successfully
+2025-02-19T10:42:35.635Z - info: Created directory: downloads
+2025-02-19T10:42:35.640Z - info: Created directory: data/analytics
+2025-02-19T10:42:35.654Z - info: Bot started successfully
+2025-02-19T10:45:59.040Z - info: Created directory: downloads
+2025-02-19T10:45:59.044Z - info: Created directory: data/analytics
+2025-02-19T10:45:59.056Z - info: Bot started successfully
+2025-02-19T10:49:03.507Z - info: Created directory: downloads
+2025-02-19T10:49:03.511Z - info: Created directory: data/analytics
+2025-02-19T10:49:03.527Z - info: Bot started successfully
+2025-02-19T10:51:40.824Z - info: Created directory: downloads
+2025-02-19T10:51:40.828Z - info: Created directory: data/analytics
+2025-02-19T10:51:40.843Z - info: Bot started successfully
+2025-02-19T10:54:04.708Z - info: Created directory: downloads
+2025-02-19T10:54:04.712Z - info: Created directory: data/analytics
+2025-02-19T10:54:04.724Z - info: Bot started successfully
+2025-02-19T10:58:31.854Z - info: Created directory: downloads
+2025-02-19T10:58:31.858Z - info: Created directory: data/analytics
+2025-02-19T10:58:31.871Z - info: Bot started successfully
+2025-02-19T11:03:15.956Z - info: Created directory: downloads
+2025-02-19T11:03:15.960Z - info: Created directory: data/analytics
+2025-02-19T11:03:15.970Z - info: Bot started successfully
+2025-02-19T11:06:07.861Z - info: Created directory: downloads
+2025-02-19T11:06:07.866Z - info: Created directory: data/analytics
+2025-02-19T11:06:07.875Z - info: Bot started successfully
+2025-02-19T11:11:03.482Z - info: Created directory: downloads
+2025-02-19T11:11:03.487Z - info: Created directory: data/analytics
+2025-02-19T11:11:03.496Z - info: Bot started successfully
+2025-02-19T11:14:00.814Z - info: Created directory: downloads
+2025-02-19T11:14:00.820Z - info: Created directory: data/analytics
+2025-02-19T11:14:00.828Z - info: Bot started successfully
+2025-02-19T11:22:34.052Z - info: Created directory: downloads
+2025-02-19T11:22:34.056Z - info: Created directory: data/analytics
+2025-02-19T11:22:34.068Z - info: Bot started successfully
+2025-02-19T11:26:50.553Z - info: Created directory: downloads
+2025-02-19T11:26:50.558Z - info: Created directory: data/analytics
+2025-02-19T11:26:50.569Z - info: Bot started successfully
+2025-02-19T11:31:11.578Z - info: Created directory: downloads
+2025-02-19T11:31:11.582Z - info: Created directory: data/analytics
+2025-02-19T11:31:11.591Z - info: Bot started successfully
+2025-02-19T11:33:11.419Z - info: Created directory: downloads
+2025-02-19T11:33:11.424Z - info: Created directory: data/analytics
+2025-02-19T11:33:11.433Z - info: Bot started successfully
+2025-02-19T11:35:26.138Z - info: Created directory: downloads
+2025-02-19T11:35:26.142Z - info: Created directory: data/analytics
+2025-02-19T11:35:26.152Z - info: Bot started successfully
+2025-02-19T11:37:45.777Z - info: Created directory: downloads
+2025-02-19T11:37:45.782Z - info: Created directory: data/analytics
+2025-02-19T11:37:45.798Z - info: Bot started successfully
+2025-02-19T11:37:50.457Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:37:54.041Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:37:58.901Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:38:02.422Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:38:10.413Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:38:19.345Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:38:22.861Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:38:27.311Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:38:30.825Z - error: Bot error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-02-19T11:40:08.875Z - info: Created directory: downloads
+2025-02-19T11:40:08.880Z - info: Created directory: data/analytics
+2025-02-19T11:40:08.890Z - info: Bot started successfully
+2025-02-19T12:36:30.990Z - info: Created directory: downloads
+2025-02-19T12:36:30.996Z - info: Created directory: data/analytics
+2025-02-19T12:36:31.011Z - info: Bot started successfully
+2025-02-19T12:39:15.098Z - info: Created directory: downloads
+2025-02-19T12:39:15.162Z - info: Created directory: data/analytics
+2025-02-19T12:39:15.184Z - info: Bot started successfully
+2025-02-19T12:44:12.362Z - info: Created directory: downloads
+2025-02-19T12:44:12.367Z - info: Created directory: data/analytics
+2025-02-19T12:44:12.379Z - info: Bot started successfully
+2025-02-19T12:46:07.731Z - info: Created directory: downloads
+2025-02-19T12:46:07.736Z - info: Created directory: data/analytics
+2025-02-19T12:46:07.746Z - info: Bot started successfully
+2025-02-19T14:39:37.069Z - info: Created directory: downloads
+2025-02-19T14:39:37.075Z - info: Created directory: data/analytics
+2025-02-19T14:39:37.084Z - info: Bot started successfully

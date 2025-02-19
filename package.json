@@ -1,0 +1,29 @@
+{
+  "name": "social-media-manager-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for managing social media content across multiple platforms",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "fb": "^2.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.2",
+    "google-auth-library": "^9.0.0",
+    "googleapis": "^126.0.1",
+    "instagram-private-api": "^1.45.3",
+    "node-telegram-bot-api": "^0.64.0",
+    "winston": "^3.10.0",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
